@@ -1,0 +1,10 @@
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\bin\Debug\Actividad_2_3.exe.config
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\bin\Debug\Actividad_2_3.exe
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\bin\Debug\Actividad_2_3.pdb
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.csprojAssemblyReference.cache
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.Calculadora.resources
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.Properties.Resources.resources
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.csproj.GenerateResource.cache
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.csproj.CoreCompileInputs.cache
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.exe
+C:\Users\MIO\source\repos\Actividad_2_3\Actividad_2_3\obj\Debug\Actividad_2_3.pdb
